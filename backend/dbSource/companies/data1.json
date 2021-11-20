@@ -1,0 +1,108 @@
+{
+  "company": {
+    "name": "雯永吉",
+    "phone": "0227617586",
+    "description": "圓型盒餐",
+    "minOrderNum": 4,
+    "minOrderMoney": 400,
+    "orderBefore": "10:36 AM"
+  },
+  "menu": [
+    {
+      "name": "招牌飯",
+      "price": 85
+    },
+    {
+      "name": "滷腿飯",
+      "price": 100
+    },
+    {
+      "name": "滷排骨飯",
+      "price": 95
+    },
+    {
+      "name": "控肉飯",
+      "price": 95
+    },
+    {
+      "name": "打拋豬飯",
+      "price": 100
+    },
+    {
+      "name": "菜飯",
+      "price": 70
+    },
+    {
+      "name": "蒜泥白肉飯",
+      "price": 95
+    },
+    {
+      "name": "烤肉飯",
+      "price": 100
+    },
+    {
+      "name": "蒲燒鯛飯",
+      "price": 100
+    },
+    {
+      "name": "三杯雞飯",
+      "price": 100
+    },
+    {
+      "name": "宮保雞丁飯",
+      "price": 100
+    },
+    {
+      "name": "烤鮭魚飯",
+      "price": 130
+    },
+    {
+      "name": "鯖魚飯",
+      "price": 90
+    },
+    {
+      "name": "燒肉飯",
+      "price": 95
+    },
+    {
+      "name": "雞排飯",
+      "price": 95
+    },
+    {
+      "name": "魚排飯",
+      "price": 95
+    },
+    {
+      "name": "腿排飯",
+      "price": 100
+    },
+    {
+      "name": "蝦捲飯",
+      "price": 100
+    },
+    {
+      "name": "炸排骨飯",
+      "price": 120
+    },
+    {
+      "name": "雞腿飯",
+      "price": 120
+    },
+    {
+      "name": "烤鮭魚飯",
+      "price": 130
+    },
+    {
+      "name": "椒麻雞飯",
+      "price": 120
+    },
+    {
+      "name": "鹽酥雞飯",
+      "price": 120
+    },
+    {
+      "name": "排骨/打拋豬飯",
+      "price": 120
+    }
+  ]
+}

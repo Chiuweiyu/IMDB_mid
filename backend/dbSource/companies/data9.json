@@ -1,0 +1,40 @@
+{
+  "company": {
+    "name": "匠食",
+    "phone": "0227206160",
+    "description": "牛排鐵板系列",
+    "minOrderNum": 4,
+    "minOrderMoney": 600,
+    "orderBefore": "10:36 AM"
+  },
+  "menu": [
+    {
+      "name": "炙焰牛排香腸",
+      "price": 150
+    },
+    {
+      "name": "舒肥雞胸蒲燒魚",
+      "price": 150
+    },
+    {
+      "name": "泰式椒麻雞香腸",
+      "price": 150
+    },
+    {
+      "name": "起司豬排蒲燒魚",
+      "price": 150
+    },
+    {
+      "name": "泰式打拋豬香腸",
+      "price": 130
+    },
+    {
+      "name": "橙汁野蔬排骨",
+      "price": 130
+    },
+    {
+      "name": "檸檬野蔬烤雞腿",
+      "price": 125
+    }
+  ]
+}

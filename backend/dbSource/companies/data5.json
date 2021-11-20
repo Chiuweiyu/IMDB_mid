@@ -1,0 +1,80 @@
+{
+  "company": {
+    "name": "橘便當",
+    "phone": "0227670321",
+    "description": "池上類型便當",
+    "minOrderNum": 4,
+    "minOrderMoney": 400,
+    "orderBefore": "10:36 AM"
+  },
+  "menu": [
+    {
+      "name": "招牌橘便當",
+      "price": 80
+    },
+    {
+      "name": "醬燒烤肉便當",
+      "price": 85
+    },
+    {
+      "name": "養生便當",
+      "price": 90
+    },
+    {
+      "name": "控肉便當",
+      "price": 90
+    },
+    {
+      "name": "嫩汁排骨便當",
+      "price": 100
+    },
+    {
+      "name": "黃金排骨便當",
+      "price": 100
+    },
+    {
+      "name": "懷舊鐵路便當",
+      "price": 100
+    },
+    {
+      "name": "唐揚炸雞便當",
+      "price": 80
+    },
+    {
+      "name": "香滷雞腿便當",
+      "price": 90
+    },
+    {
+      "name": "香脆雞排便當",
+      "price": 95
+    },
+    {
+      "name": "薄皮雞腿便當",
+      "price": 110
+    },
+    {
+      "name": "椒麻雞腿便當",
+      "price": 110
+    },
+    {
+      "name": "薄鹽鯖魚便當",
+      "price": 90
+    },
+    {
+      "name": "豪華海陸便當",
+      "price": 130
+    },
+    {
+      "name": "藍帶豬排便當",
+      "price": 80
+    },
+    {
+      "name": "健康菜飯便當",
+      "price": 60
+    },
+    {
+      "name": "時蔬蝦捲飯包",
+      "price": 75
+    }
+  ]
+}

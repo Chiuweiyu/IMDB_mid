@@ -1,0 +1,48 @@
+{
+  "company": {
+    "name": "鄭姑媽",
+    "phone": "0227270150",
+    "description": "老牌雞排店",
+    "minOrderNum": 4,
+    "minOrderMoney": 400,
+    "orderBefore": "10:36 AM"
+  },
+  "menu": [
+    {
+      "name": "雞排飯",
+      "price": 100
+    },
+    {
+      "name": "腿排飯",
+      "price": 100
+    },
+    {
+      "name": "排骨飯",
+      "price": 90
+    },
+    {
+      "name": "雞塊飯",
+      "price": 70
+    },
+    {
+      "name": "香腸飯",
+      "price": 70
+    },
+    {
+      "name": "乾意麵(小)",
+      "price": 35
+    },
+    {
+      "name": "乾意麵(大)",
+      "price": 45
+    },
+    {
+      "name": "炸醬面(小)",
+      "price": 40
+    },
+    {
+      "name": "炸醬麵(大)",
+      "price": 60
+    }
+  ]
+}

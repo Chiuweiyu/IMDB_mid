@@ -1,0 +1,48 @@
+{
+  "company": {
+    "name": "有饌便當",
+    "phone": "0227491122",
+    "description": "服務熱誠的便當店",
+    "minOrderNum": 4,
+    "minOrderMoney": 400,
+    "orderBefore": "10:36 AM"
+  },
+  "menu": [
+    {
+      "name": "雞腿飯",
+      "price": 120
+    },
+    {
+      "name": "排骨飯",
+      "price": 95
+    },
+    {
+      "name": "椒麻雞飯",
+      "price": 130
+    },
+    {
+      "name": "魚排飯",
+      "price": 100
+    },
+    {
+      "name": "梅干控肉飯",
+      "price": 100
+    },
+    {
+      "name": "蒜泥白肉飯",
+      "price": 90
+    },
+    {
+      "name": "蝦捲飯",
+      "price": 90
+    },
+    {
+      "name": "打拋豬飯",
+      "price": 90
+    },
+    {
+      "name": "菜飯",
+      "price": 60
+    }
+  ]
+}

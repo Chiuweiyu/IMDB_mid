@@ -1,0 +1,36 @@
+{
+  "company": {
+    "name": "川泰特色料理",
+    "phone": "0287320188",
+    "description": "川式泰式豪華會議餐盒",
+    "minOrderNum": 5,
+    "minOrderMoney": 500,
+    "orderBefore": "10:36 AM"
+  },
+  "menu": [
+    {
+      "name": "宮保雞丁飯(微辣)",
+      "price": 120
+    },
+    {
+      "name": "泰式咖喱雞飯(微辣)",
+      "price": 120
+    },
+    {
+      "name": "蒜泥白肉飯",
+      "price": 120
+    },
+    {
+      "name": "泰式打拋豬飯(微辣)",
+      "price": 120
+    },
+    {
+      "name": "糖醋雞球飯",
+      "price": 120
+    },
+    {
+      "name": "滑蛋牛肉飯",
+      "price": 130
+    }
+  ]
+}

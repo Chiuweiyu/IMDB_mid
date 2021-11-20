@@ -1,0 +1,140 @@
+{
+  "company": {
+    "name": "珠食堂",
+    "phone": "0227268225",
+    "description": "可以用賴點餐",
+    "minOrderNum": 5,
+    "minOrderMoney": 500,
+    "orderBefore": "10:36 AM"
+  },
+  "menu": [
+    {
+      "name": "烤鯛魚腹肚飯",
+      "price": 90
+    },
+    {
+      "name": "燒肉飯",
+      "price": 100
+    },
+    {
+      "name": "魚排飯",
+      "price": 85
+    },
+    {
+      "name": "魯腸飯",
+      "price": 50
+    },
+    {
+      "name": "無骨雞腿飯",
+      "price": 100
+    },
+    {
+      "name": "蒜泥白肉飯",
+      "price": 90
+    },
+    {
+      "name": "香腸飯",
+      "price": 80
+    },
+    {
+      "name": "炸雞腿飯",
+      "price": 100
+    },
+    {
+      "name": "豬腳便當",
+      "price": 90
+    },
+    {
+      "name": "排骨飯",
+      "price": 80
+    },
+    {
+      "name": "烤雞腿飯",
+      "price": 100
+    },
+    {
+      "name": "烤鹹豬肉飯",
+      "price": 90
+    },
+    {
+      "name": "雞排飯",
+      "price": 85
+    },
+    {
+      "name": "鹹粥",
+      "price": 70
+    },
+    {
+      "name": "滷肉飯",
+      "price": 30
+    },
+    {
+      "name": "雞肉絲飯",
+      "price": 40
+    },
+    {
+      "name": "滷肉便當",
+      "price": 65
+    },
+    {
+      "name": "雞肉絲便當",
+      "price": 70
+    },
+    {
+      "name": "滷腸便當",
+      "price": 80
+    },
+    {
+      "name": "泰式椒麻雞飯",
+      "price": 90
+    },
+    {
+      "name": "烤沙朗牛飯",
+      "price": 130
+    },
+    {
+      "name": "雞肉絲拌麵(大)",
+      "price": 60
+    },
+    {
+      "name": "麻花醬拌麵(大)",
+      "price": 50
+    },
+    {
+      "name": "肉燥乾麵(大)",
+      "price": 50
+    },
+    {
+      "name": "傻瓜乾麵(大)",
+      "price": 50
+    },
+    {
+      "name": "魚皮湯",
+      "price": 50
+    },
+    {
+      "name": "哈利湯",
+      "price": 60
+    },
+    {
+      "name": "味增貢丸蛋花湯",
+      "price": 50
+    },
+    {
+      "name": "蕃茄蛋花湯",
+      "price": 60
+    },
+    {
+      "name": "味增蛋花湯",
+      "price": 35
+    },
+    {
+      "name": "蛋花湯",
+      "price": 30
+    },
+    {
+      "name": "貢丸湯",
+      "price": 30
+    }
+  ]
+}

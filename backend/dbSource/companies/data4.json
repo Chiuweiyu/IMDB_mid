@@ -1,0 +1,108 @@
+{
+  "company": {
+    "name": "好鄉廚房",
+    "phone": "0223465836",
+    "description": "可以用賴訂?",
+    "minOrderNum": 5,
+    "minOrderMoney": 500,
+    "orderBefore": "10:36 AM"
+  },
+  "menu": [
+    {
+      "name": "雞排飯",
+      "price": 95
+    },
+    {
+      "name": "香脆雞腿飯",
+      "price": 105
+    },
+    {
+      "name": "燒烤雞腿飯",
+      "price": 110
+    },
+    {
+      "name": "泰式椒麻雞飯",
+      "price": 110
+    },
+    {
+      "name": "蝦捲飯",
+      "price": 75
+    },
+    {
+      "name": "炸鮭魚飯",
+      "price": 85
+    },
+    {
+      "name": "花枝飯",
+      "price": 85
+    },
+    {
+      "name": "蒲燒鯛魚飯",
+      "price": 95
+    },
+    {
+      "name": "馬告飛魚軟香腸飯",
+      "price": 90
+    },
+    {
+      "name": "滷排鮭魚飯",
+      "price": 85
+    },
+    {
+      "name": "滷排蝦捲飯",
+      "price": 85
+    },
+    {
+      "name": "滷排花枝香腸飯",
+      "price": 85
+    },
+    {
+      "name": "雞腿鮭魚飯",
+      "price": 100
+    },
+    {
+      "name": "雞腿蝦捲飯",
+      "price": 100
+    },
+    {
+      "name": "雞腿花枝香腸飯",
+      "price": 100
+    },
+    {
+      "name": "控肉飯",
+      "price": 80
+    },
+    {
+      "name": "滷豬建飯",
+      "price": 80
+    },
+    {
+      "name": "滷排骨飯",
+      "price": 85
+    },
+    {
+      "name": "炸排骨飯",
+      "price": 85
+    },
+    {
+      "name": "糖醋里肌飯",
+      "price": 85
+    },
+    {
+      "name": "蒜泥白肉飯",
+      "price": 85
+    },
+    {
+      "name": "黑胡椒豬肉飯",
+      "price": 90
+    },
+    {
+      "name": "黑胡椒牛肉飯",
+      "price": 90
+    },
+    {
+      "name": "紅燒牛男飯",
+      "price": 110
+    }
+  ]
+}

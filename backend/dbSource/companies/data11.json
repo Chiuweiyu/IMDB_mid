@@ -1,0 +1,64 @@
+{
+  "company": {
+    "name": "甘擔",
+    "phone": "0227420566",
+    "description": "鮮做餐盒",
+    "minOrderNum": 4,
+    "minOrderMoney": 600,
+    "orderBefore": "10:36 AM"
+  },
+  "menu": [
+    {
+      "name": "煙燻乾這雞腿餐",
+      "price": 100
+    },
+    {
+      "name": "古早味滷雞腿餐",
+      "price": 100
+    },
+    {
+      "name": "秘制脆殼烤腿餐",
+      "price": 100
+    },
+    {
+      "name": "坦都里香料雞餐",
+      "price": 100
+    },
+    {
+      "name": "宮保雞丁餐",
+      "price": 85
+    },
+    {
+      "name": "梅醬腿排餐",
+      "price": 100
+    },
+    {
+      "name": "炙燒照燒豬餐",
+      "price": 100
+    },
+    {
+      "name": "台式滷排骨餐",
+      "price": 100
+    },
+    {
+      "name": "匈牙利里肌餐",
+      "price": 100
+    },
+    {
+      "name": "薑汁燒肉餐",
+      "price": 85
+    },
+    {
+      "name": "酥香豆酥魚片餐",
+      "price": 100
+    },
+    {
+      "name": "蒲燒魚腹餐",
+      "price": 100
+    },
+    {
+      "name": "牛肉壽喜燒餐",
+      "price": 100
+    }
+  ]
+}
