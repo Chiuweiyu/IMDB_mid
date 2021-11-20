@@ -1,2 +1,2 @@
 # IMDB_mid
-mid term project for IMDB
+This is the midterm project for IMDB.
