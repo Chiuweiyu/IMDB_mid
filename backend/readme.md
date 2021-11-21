@@ -45,6 +45,8 @@ Sometimes we cannot add the MONGO_USER to mongodb. It will cause the service una
 
 You need to add the user manually ... 
 
+Note: you can find `<your mongodb container name>` in the `"docker Desktop"` - `"Containers"`
+
 ``` shell
 docker exec -it <your mongodb container name> bash
 ```
@@ -92,5 +94,3 @@ Then:
 ``` 
 npm run dev
 ```
-
-
