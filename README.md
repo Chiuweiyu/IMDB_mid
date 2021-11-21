@@ -2,9 +2,11 @@
 This is the midterm project for IMDB.
 
 ### Requirement
+```
 node version >= v.16.9.1
 npm version >= v7.21.1
 yarn version >= v1.22.10
+```
 
 ### Usage
 
