@@ -28,4 +28,7 @@ REACT_APP_API_URL=localhost
 REACT_APP_API_PORT=4000
 ```
 
-Then `npm run start`. 
+Then 
+```
+$ npm run start
+``` 
