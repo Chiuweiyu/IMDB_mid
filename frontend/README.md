@@ -12,6 +12,13 @@ and follow the readme instruction to setup the MongoDB and start the API service
 
 You can also find the data schema definition at the [models folder](https://github.com/Chiuweiyu/IMDB_mid/tree/main/backend/models)
 
+### Install dependencies
+
+```
+$ npm install
+$ yarn install
+```
+
 ### Env
 
 Copy the text below into a file `.env` and put it under this directory:
