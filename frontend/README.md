@@ -7,10 +7,10 @@
 
 ### Setting Backend Services
 
-Clone the [din-ben-ton-be](https://github.com/dinbenton/din-ben-ton-be) repository 
+Clone the [din-ben-ton-be](https://github.com/Chiuweiyu/IMDB_mid/tree/main/backend) repository 
 and follow the readme instruction to setup the MongoDB and start the API service. 
 
-You can also find the data schema definition at the [models folder](https://github.com/dinbenton/din-ben-ton-be/tree/master/models)
+You can also find the data schema definition at the [models folder](https://github.com/Chiuweiyu/IMDB_mid/tree/main/backend/models)
 
 ### Env
 
