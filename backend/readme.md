@@ -14,11 +14,22 @@ Copy the text below into a file `.env` and put it under this directory:
 PORT=4000
 MONGODB_URL=0.0.0.0
 MONGODB_PORT=27017
-DB_NAME=btsebenton
+DB_NAME=benton
 MONGO_ADMIN_NAME=root
 MONGO_ADMIN_PASSWORD=<what you want>
 MONGO_USER=<what you want>
 MONGO_USER_PASSWORD=<what you want>
+```
+For example, in my setting:
+```
+PORT=4000
+MONGODB_URL=0.0.0.0
+MONGODB_PORT=27017
+DB_NAME=benton
+MONGO_ADMIN_NAME=root
+MONGO_ADMIN_PASSWORD=00000000
+MONGO_USER=kurt
+MONGO_USER_PASSWORD=00000000
 ```
 
 ### DataBase
@@ -61,26 +72,13 @@ $ mongosh -u root
 In the mongo shell: 
 
 ```
-use btsebenton
+use benton
 ```
+In `benton` db:
 ```
-db.createUser({user: <MONGO_USER> (string type),pwd: passwordPrompt(),roles: [ { role: 'dbOwner', db: 'btsebenton' } ]})
-```
-```
-exit
+db.createUser({user: <MONGO_USER> ,pwd: passwordPrompt(),roles: [ { role: 'dbOwner', db: 'benton' } ]})
 ```
 
-### Add Companies and Bentos data to Database
-
-```
-node add.js
-```
-
-It will add all the data at `dbSource/companies` to the database.
-
-If you want to add more, you can move the original data of `dbSource/companies` to the `dbSource/saved`,
-
-Then you can add the json files and run `node add.js` to execute batch input again.
 
 ### Watching the Server
 
@@ -94,3 +92,20 @@ Then:
 ``` 
 npm run dev
 ```
+In this step, we finally starting our backend server.
+
+
+
+### Add Companies and Bentos data to Database
+
+When the backend server is running, we can push some data into db.
+
+```
+node add.js
+```
+
+It will add all the data at `dbSource/companies` to the database.
+
+If you want to add more, you can move the original data of `dbSource/companies` to the `dbSource/saved`,
+
+Then you can add the json files and run `node add.js` to execute batch input again.
