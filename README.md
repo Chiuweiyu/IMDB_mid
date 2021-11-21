@@ -9,7 +9,7 @@ yarn version >= v1.22.10
 ### Usage
 
 1. Clone this file
-```
-$ git clone https://github.com/Chiuweiyu/IMDB_mid.git
+```shell
+git clone https://github.com/Chiuweiyu/IMDB_mid.git
 ```
 2. Go to the `backend` and `frontend` dictionaries to start the project.
