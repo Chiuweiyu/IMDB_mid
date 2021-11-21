@@ -59,17 +59,17 @@ You need to add the user manually ...
 Note: you can find `<your mongodb container name>` in the `"docker Desktop"` - `"Containers"`
 
 ``` shell
-docker exec -it <your mongodb container name> bash
+$ docker exec -it <your mongodb container name> bash
 ```
 
-When entering the shell: 
+When entering the docker shell: 
 
 ```` shell
-$ mongosh -u root
+mongosh -u root
 <MONGO_ADMIN_PASSWORD>
 ````
 
-In the mongo shell: 
+In the mongo container shell: 
 
 ```
 use benton
@@ -79,9 +79,10 @@ In `benton` db:
 db.createUser({user: <MONGO_USER> ,pwd: passwordPrompt(),roles: [ { role: 'dbOwner', db: 'benton' } ]})
 ```
 * In my example, run `db.createUser({user: "kurt" ,pwd: passwordPrompt(),roles: [ { role: 'dbOwner', db: 'benton' }]})`
+in the mongo container shell.
 
 
-After creating user, type `exit` and back to the bash shell
+After creating user, type `exit` and back to the bash shell:
 ```
 exit
 ```
@@ -89,15 +90,15 @@ exit
 
 ### Watching the Server
 
-We use `nodemon` to watch server and auto reload it when content changed: 
+We use `nodemon` to watch server and auto reload it when content is changed: 
 
 ``` command
-npm install -g nodemon
+$ npm install -g nodemon
 ```
 Then:
 
 ``` 
-npm run dev
+$ npm run dev
 ```
 In this step, we finally starting our backend server.
 
@@ -108,7 +109,7 @@ In this step, we finally starting our backend server.
 When the backend server is running, we can push some data into db.
 
 ```
-node add.js
+$ node add.js
 ```
 
 It will add all the data at `dbSource/companies` to the database.
