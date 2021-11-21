@@ -14,13 +14,11 @@ You can also find the data schema definition at the [models folder](https://gith
 
 ### Env
 
-Set the `.env`: 
+Copy the text below into a file `.env` and put it under this directory:
 
 ```
-REACT_APP_API_URL=0.0.0.0
+REACT_APP_API_URL=localhost
 REACT_APP_API_PORT=4000
 ```
 
-Then `yarn start`. 
-
-Happy coding!
+Then `npm run start`. 
