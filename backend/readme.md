@@ -50,7 +50,6 @@ After you have started the mongodb services, you can visit the MongoDB admin int
 
 ### Confirm the Database User data
 
-**TODO: need to fix it ...**
 
 Sometimes we cannot add the MONGO_USER to mongodb. It will cause the service unavailable.
 
