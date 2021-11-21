@@ -12,4 +12,5 @@ yarn version >= v1.22.10
 ```shell
 git clone https://github.com/Chiuweiyu/IMDB_mid.git
 ```
-2. Go to the `backend` and `frontend` dictionaries to start the project.
+2. Go to the `backend` and `frontend` dictionaries to start the project. Note that ***please check the README in `backend` first*** to start DB and backend,
+then start the frontend next; otherwise you will see errors in the terminal.
