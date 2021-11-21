@@ -78,6 +78,13 @@ In `benton` db:
 ```
 db.createUser({user: <MONGO_USER> ,pwd: passwordPrompt(),roles: [ { role: 'dbOwner', db: 'benton' } ]})
 ```
+* In my example, run `db.createUser({user: "kurt" ,pwd: passwordPrompt(),roles: [ { role: 'dbOwner', db: 'benton' }]})`
+
+
+After creating user, type `exit` and back to the bash shell
+```
+exit
+```
 
 
 ### Watching the Server
